@@ -1,0 +1,7 @@
+URL	https://dge-oic-dev-axsqv5rxfcdo-an.integration.me-abudhabi-2.ocp.oraclecloud29.com/
+
+
+Message Pack	1
+OIC File Server	Enabled
+SFTP IP/Port	http://fs-dge-oic-dev-axsqv5rxfcdo-an.integration.me-abudhabi-2.ocp.oraclecloud29.com
+	84.8.182.163 | 10103 | LB IP: 10.167.6.15 & Port 22
