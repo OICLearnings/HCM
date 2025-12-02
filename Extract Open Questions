@@ -1,1 +1,15 @@
-Testing questions
+1. EffectiveDate is not ddmmyyyy format. it is taken as yyyy-mm-dd format for currentdate
+   for submit extract  I have taken
+    Flow name = ADG_HCM_INT_X2
+    LEGAL EMPLOYER_NAME = DGE
+    DAYS THRESHOLD =60
+    changes only =N
+2. ExtractContentId mapping fields
+	FlowInstanceName - mapped InstanceId, 
+	FlowTaskInastanceName- ADG_HCM_INT_X2, 
+	LegislativeDataGroup,
+	IntegrationName  
+	Value for IntegrationName ?
+	
+	It doesn't showing any error and does not retun any id
+3. Confirm Insert into atp fields Mapping also.Testing questions
