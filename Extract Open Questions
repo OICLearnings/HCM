@@ -19,6 +19,8 @@ Integration Name (Lookup to be used later) - HCMIXXX01
 
 Reerence Integration --> 005_01
 
+ I have renamed ADG_HCM_INT_X2 to ADG_HCM_JML_INT_XXX_NewHire
+
 
 	It doesn't showing any error and does not retun any id
 3. Confirm Insert into atp fields Mapping also.Testing questions
