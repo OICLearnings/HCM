@@ -1,0 +1,23 @@
+ScheduleIntegrationsList:
+ADG_HCM_EMP_NEW_HIRE_DATA_SCH
+ADG_HCM_EMP_LEAVERS_DATA_SCH
+ADG_HCM_EMP_GLOBAL_TRANSFERS_SCH
+ADG_HCM_EMP_DELTA_FEED_SCH
+ADG_HCM_EMP_FULL_FEED_SCH
+
+Common Integration
+ADG HCM COMMON EXTRACT SERVICE
+
+ChildIntegrations
+ADG HCM NewHire Data Load In ATP
+ADG HCM Leavers Data Load In ATP
+ADG HCM Global Transfer Data Load In ATP
+ADG HCM Delta Feed Data Load In ATP
+ADG HCM Full Feed Data Load In ATP
+
+Status:
+NewHire Case - Errored at db Insert
+Leavers Case - FunctionalError.
+GlobalTransfers - FunctionalError
+DeltaFeed - Success
+FullFeed - Success
